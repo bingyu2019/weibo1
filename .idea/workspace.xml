@@ -108,9 +108,7 @@
       <change beforePath="$PROJECT_DIR$/../jili20" beforeDir="false" afterPath="$PROJECT_DIR$/../jili20" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shop" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -277,7 +275,7 @@
       <updated>1570873432895</updated>
       <workItem from="1570873438168" duration="14000" />
       <workItem from="1570873454330" duration="700000" />
-      <workItem from="1570929027258" duration="13938000" />
+      <workItem from="1570929027258" duration="14127000" />
     </task>
     <servers />
   </component>
