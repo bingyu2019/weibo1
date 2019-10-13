@@ -108,6 +108,7 @@
       <change beforePath="$PROJECT_DIR$/../jili20" beforeDir="false" afterPath="$PROJECT_DIR$/../jili20" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shop" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
@@ -274,7 +275,7 @@
       <updated>1570873432895</updated>
       <workItem from="1570873438168" duration="14000" />
       <workItem from="1570873454330" duration="700000" />
-      <workItem from="1570929027258" duration="3182000" />
+      <workItem from="1570929027258" duration="3613000" />
     </task>
     <servers />
   </component>
