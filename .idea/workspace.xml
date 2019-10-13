@@ -108,7 +108,7 @@
       <change beforePath="$PROJECT_DIR$/../jili20" beforeDir="false" afterPath="$PROJECT_DIR$/../jili20" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shop" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -276,7 +276,7 @@
       <workItem from="1570873438168" duration="14000" />
       <workItem from="1570873454330" duration="700000" />
       <workItem from="1570929027258" duration="28096000" />
-      <workItem from="1570963939430" duration="4062000" />
+      <workItem from="1570963939430" duration="4845000" />
     </task>
     <servers />
   </component>
