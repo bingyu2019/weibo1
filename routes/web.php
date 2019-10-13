@@ -22,7 +22,8 @@ Route::get('/help', 'StaticPagesController@help')->name('help');
 // 注册路由
 Route::get('signup','UsersController@create')->name('signup');
 
-
+// 用户资源路由（1 个 = 7 个）
+Route::resource('users', 'UsersController');
 
 
 
