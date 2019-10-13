@@ -18,3 +18,43 @@ Route::get('/', function () {
 Route::get('/', 'StaticPagesController@home')->name('home');
 Route::get('/about', 'StaticPagesController@about')->name('about');
 Route::get('/help', 'StaticPagesController@help')->name('help');
+
+// 注册路由
+Route::get('signup','UsersController@create')->name('signup');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
